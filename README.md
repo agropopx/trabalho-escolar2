@@ -1,1 +1,2 @@
-# trabalho-escolar2
+# trabalho.dev escolar2
+Atividades praticadas em aula.
